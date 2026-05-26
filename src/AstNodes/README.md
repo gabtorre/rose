@@ -119,3 +119,4 @@ things:
 	5. Run Rosebud to regenerate files.
 	6. Rename Git repository generated file SgFoo.C to SgBar.C
 	7. Check the modified generated files into Git
+Hello World
